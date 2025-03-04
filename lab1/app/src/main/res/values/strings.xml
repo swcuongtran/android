@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="cal">Máy tính</string>
+    <string name="menu">Danh mục</string>
+    <string name="info">Thông tin người dùng</string>
+</resources>
